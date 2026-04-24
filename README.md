@@ -6,7 +6,7 @@
 
 ## 🔗 Live Project
 
-👉 *(Add your Streamlit Cloud link here after deployment)*
+👉 *(https://customer-segmentation-dashboard1.streamlit.app/)*
 
 ## 📂 GitHub Repository
 
